@@ -1,0 +1,9 @@
+node_modules
+.idea/
+public/tmp
+logs/*
+!logs/.gitkeep
+.env
+.scannerwork
+package-lock.json
+/.history
